@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 508943,
+            "original_language": "en",
+            "original_title": "Luca",
+            "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+            "popularity": 3383.138,
+            "poster_path": "/jTswp6KyDYKtvC52GbHagrZbGvD.jpg",
+            "release_date": "2021-06-17",
+            "title": "Luca",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/plAa7ZIhoXOvQRgOodtg5T0VEwp.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 639774,
+            "original_language": "es",
+            "original_title": "Mi Hermano Luca",
+            "overview": "When an imaginative little girl discovers that her older brother might have superpowers, she sets out on a quest to make sure everyone else sees him as she does.",
+            "popularity": 17.06,
+            "poster_path": "/zSDIEfp5ypVkdeQe4TSLCh7low2.jpg",
+            "release_date": "2019-11-02",
+            "title": "My Brother Luca",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 6,
+    "total_results": 114
+}
